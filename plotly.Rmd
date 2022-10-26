@@ -80,3 +80,8 @@ ggplotly(scatter_ggplot)
 ```
 
 In this way, you are making a ggplot first, then you are using `ggplotly` tp turn it into an interactive graphic, but this will be so slow. You would still want to use `plot_ly`. 
+
+
+## Create a Dashboard...
+
+Not in this docuemnt. 
