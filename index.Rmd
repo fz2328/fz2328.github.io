@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
@@ -16,6 +15,7 @@ Here is some text. I like the internet. I use [google](https://www.google.com/) 
 ##inserting image 
 use `![](file/picture name))` format
 ![](images/fendi.jpg)
+<img src="images/fendi.jpg" style ="width:25%" class ="center">
 
 ```{r}
 sample = rnorm(1000)
@@ -27,6 +27,7 @@ Here is a direct link to the [about](about.html) page.
 There is also an [extra page](extra_page.html). 
 
 
-
+## New Section !!
+[Here's](plotly.html) a page with plotly plots
 
 
